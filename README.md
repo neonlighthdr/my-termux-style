@@ -1,3 +1,5 @@
+This is the Termux display configuration.
+
 ```bash
 git clone https://github.com/neonlighthdr/my-termux-style.git
 ````
